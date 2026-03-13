@@ -1,0 +1,917 @@
+<?xml version='1.0' encoding='latin1'?>
+<beast version="10.5.0-beta5">
+	
+
+	
+	
+	<taxa id="taxa">
+		<taxon id="A/cinnamon_teal/Idaho/23-028146-026/2023">
+			<date value="2023.6849315068494" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/mallard/Colorado/23-028217-001-original/2023">
+			<date value="2023.7013698630137" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/blue-winged_teal/Mississippi/23-028540-005/2023">
+			<date value="2023.7068493150684" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/blue-winged_teal/Minnesota/23-029309-015-original/2023">
+			<date value="2023.7260273972602" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/blue-winged_teal/Minnesota/23-029704-001-original/2023">
+			<date value="2023.7260273972602" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/pintail/Montana/23-030714-012-original/2023">
+			<date value="2023.7452054794521" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/mallard/South_Dakota/23-031577-002-original/2023">
+			<date value="2023.7698630136986" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/turkey/Iowa/23-032005-001/2023">
+			<date value="2023.7972602739726" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/blue-winged_teal/Kansas/23-034084-002-original/2023">
+			<date value="2023.8191780821917" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/green-winged_teal/Indiana/23-033977-004-original/2023">
+			<date value="2023.8219178082193" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/goose/Colorado/23-038138-001/2023">
+			<date value="2023.9013698630138" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/green-winged_teal/Utah/23-038097-001-original/2023">
+			<date value="2023.9041095890411" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/mallard/New_York/23-038595-001-original/2023">
+			<date value="2023.9041095890411" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/snow_goose/Tennessee/W23-940/2023">
+			<date value="2023.9041095890411" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/Canada_goose/Wyoming/24-003692-001/2024">
+			<date value="2024.0655737704917" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/peregrine_falcon/California/24-005915-001/2024">
+			<date value="2024.120218579235" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/skunk/New_Mexico/24-006483-001/2024">
+			<date value="2024.1448087431695" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/Ruddy_Turnstone/Delaware/416/2021">
+			<date value="2021.4136986301369" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="A/Mallard/Alberta/567/2021">
+			<date value="2021.6493150684933" direction="forwards" units="years" />
+		</taxon>
+	</taxa>
+	
+	
+
+	
+	
+	<alignment id="alignment" dataType="nucleotide">
+		<sequence>
+			<taxon idref="A/cinnamon_teal/Idaho/23-028146-026/2023" />
+			<!-- Genome sequence for accession A/cinnamon_teal/Idaho/23-028146-026/2023 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/mallard/Colorado/23-028217-001-original/2023" />
+			<!-- Genome sequence for accession A/mallard/Colorado/23-028217-001-original/2023 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/blue-winged_teal/Mississippi/23-028540-005/2023" />
+			<!-- Genome sequence for accession A/blue-winged_teal/Mississippi/23-028540-005/2023 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/blue-winged_teal/Minnesota/23-029309-015-original/2023" />
+			<!-- Genome sequence for accession A/blue-winged_teal/Minnesota/23-029309-015-original/2023 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/blue-winged_teal/Minnesota/23-029704-001-original/2023" />
+			<!-- Genome sequence for accession A/blue-winged_teal/Minnesota/23-029704-001-original/2023 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/pintail/Montana/23-030714-012-original/2023" />
+			<!-- Genome sequence for accession A/pintail/Montana/23-030714-012-original/2023 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/mallard/South_Dakota/23-031577-002-original/2023" />
+			<!-- Genome sequence for accession A/mallard/South_Dakota/23-031577-002-original/2023 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/turkey/Iowa/23-032005-001/2023" />
+			<!-- Genome sequence for accession A/turkey/Iowa/23-032005-001/2023 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/blue-winged_teal/Kansas/23-034084-002-original/2023" />
+			<!-- Genome sequence for accession A/blue-winged_teal/Kansas/23-034084-002-original/2023 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/green-winged_teal/Indiana/23-033977-004-original/2023" />
+			<!-- Genome sequence for accession A/green-winged_teal/Indiana/23-033977-004-original/2023 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/goose/Colorado/23-038138-001/2023" />
+			<!-- Genome sequence for accession A/goose/Colorado/23-038138-001/2023 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/green-winged_teal/Utah/23-038097-001-original/2023" />
+			<!-- Genome sequence for accession A/green-winged_teal/Utah/23-038097-001-original/2023 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/mallard/New_York/23-038595-001-original/2023" />
+			<!-- Genome sequence for accession A/mallard/New_York/23-038595-001-original/2023 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/snow_goose/Tennessee/W23-940/2023" />
+			<!-- Genome sequence for accession A/snow_goose/Tennessee/W23-940/2023 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/Canada_goose/Wyoming/24-003692-001/2024" />
+			<!-- Genome sequence for accession A/Canada_goose/Wyoming/24-003692-001/2024 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/peregrine_falcon/California/24-005915-001/2024" />
+			<!-- Genome sequence for accession A/peregrine_falcon/California/24-005915-001/2024 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/skunk/New_Mexico/24-006483-001/2024" />
+			<!-- Genome sequence for accession A/skunk/New_Mexico/24-006483-001/2024 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/Ruddy_Turnstone/Delaware/416/2021" />
+			<!-- Genome sequence for accession A/Ruddy_Turnstone/Delaware/416/2021 -->
+			</sequence>
+		<sequence>
+			<taxon idref="A/Mallard/Alberta/567/2021" />
+			<!-- Genome sequence for accession A/Mallard/Alberta/567/2021 -->
+			</sequence>
+	</alignment>
+	
+	
+
+	
+
+	
+	
+	<patterns id="CP1.patterns" from="1" every="3" unique="false">
+		<alignment idref="alignment" />
+	</patterns>
+
+	
+
+	
+	
+	<patterns id="CP2.patterns" from="2" every="3" unique="false">
+		<alignment idref="alignment" />
+	</patterns>
+
+	
+
+	
+	
+	<patterns id="CP3.patterns" from="3" every="3" unique="false">
+		<alignment idref="alignment" />
+	</patterns>
+	
+
+	
+	
+	<exponentialGrowth id="exponential" units="years">
+		<populationSize>
+			<parameter id="exponential.popSize" value="1.0" lower="0.0" />
+		</populationSize>
+		<growthRate>
+			<parameter id="exponential.growthRate" value="0.0" />
+		</growthRate>
+	</exponentialGrowth>
+	
+
+	
+	<coalescentSimulator id="startingTree">
+		<taxa idref="taxa" />
+		<exponentialGrowth idref="exponential" />
+	</coalescentSimulator>
+	
+
+	
+	<treeModel id="treeModel">
+		<coalescentTree idref="startingTree" />
+		<rootHeight>
+			<parameter id="treeModel.rootHeight" />
+		</rootHeight>
+		<nodeHeights internalNodes="true">
+			<parameter id="treeModel.internalNodeHeights" />
+		</nodeHeights>
+		<nodeHeights internalNodes="true" rootNode="true">
+			<parameter id="treeModel.allInternalNodeHeights" />
+		</nodeHeights>
+	</treeModel>
+
+	
+	<treeHeightStatistic id="rootHeight">
+		<treeModel idref="treeModel" />
+	</treeHeightStatistic>
+
+	
+	<treeLengthStatistic id="treeLength">
+		<treeModel idref="treeModel" />
+	</treeLengthStatistic>
+
+	
+	<tmrcaStatistic id="age(root)" absolute="true">
+		<treeModel idref="treeModel" />
+	</tmrcaStatistic>
+	
+
+	
+	<gmrfSkyGridLikelihood id="skygrid">
+		<populationSizes>
+
+			
+			<parameter id="skygrid.logPopSize" dimension="36" value="1.0" />
+		</populationSizes>
+		<precisionParameter>
+			<parameter id="skygrid.precision" value="0.1" lower="0.0" />
+		</precisionParameter>
+		<numGridPoints>
+			<parameter id="skygrid.numGridPoints" value="35.0" />
+		</numGridPoints>
+		<cutOff>
+			<parameter id="skygrid.cutOff" value="6.0" />
+		</cutOff>
+		<populationTree>
+			<treeModel idref="treeModel" />
+		</populationTree>
+	</gmrfSkyGridLikelihood>
+
+	<compoundParameter id="skygrid.parameters">
+		<parameter idref="skygrid.precision" />
+		<parameter idref="skygrid.logPopSize" />
+	</compoundParameter>
+
+	<gmrfSkyrideGradient id="gmrfGradientPop" wrtParameter="logPopulationSizes">
+		<gmrfSkyGridLikelihood idref="skygrid" />
+	</gmrfSkyrideGradient>
+
+	<report>
+		<gmrfSkyrideGradient idref="gmrfGradientPop" />
+	</report>
+
+	<gmrfSkyrideGradient id="gmrfGradientPrec" wrtParameter="precision">
+		<gmrfSkyGridLikelihood idref="skygrid" />
+	</gmrfSkyrideGradient>
+
+	<report>
+		<gmrfSkyrideGradient idref="gmrfGradientPrec" />
+	</report>
+
+	<gammaPrior id="skygrid.precision.prior" shape="0.001" scale="1000" offset="0.0">
+		<parameter idref="skygrid.precision" />
+	</gammaPrior>
+
+	<jointGradient id="joint.skygrid.precision">
+		<gmrfSkyrideGradient idref="gmrfGradientPrec" />
+		<gradient>
+			<gammaPrior idref="skygrid.precision.prior" />
+			<parameter idref="skygrid.precision" />
+		</gradient>
+	</jointGradient>
+
+	<compoundGradient id="full.skygrid.gradient">
+		<jointGradient idref="joint.skygrid.precision" />
+		<gmrfSkyrideGradient idref="gmrfGradientPop" />
+		
+	</compoundGradient>
+
+	<report>
+		<compoundGradient idref="full.skygrid.gradient" />
+	</report>
+
+	<gmrfSkyrideGradient id="skyrideGradientWrtNodeHeight" wrtParameter="nodeHeight">
+		<gmrfSkyGridLikelihood idref="skygrid" />
+		<treeModel idref="treeModel" />
+	</gmrfSkyrideGradient>
+
+	
+	<arbitraryBranchRates id="default.branchRates" centerAtOne="false">
+		<treeModel idref="treeModel" />
+		<rates>
+            <parameter id="branchRates.rates" value="1E0" lower="0" />
+        </rates>
+        <scale>
+            <parameter id="branchRates.scale" lower="0.0" value="1.0" />
+        </scale>
+        <location>
+            <parameter id="branchRates.location" lower="0.0" value="1E-3" />
+        </location>
+	</arbitraryBranchRates>
+	
+	<rateStatistic id="default.meanRate" name="default.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" />
+		<discretizedBranchRates idref="default.branchRates" />
+	</rateStatistic>
+	
+	<rateStatistic id="default.coefficientOfVariation" name="default.coefficientOfVariation" mode="coefficientOfVariation" internal="true" external="true">
+		<treeModel idref="treeModel" />
+		<discretizedBranchRates idref="default.branchRates" />
+	</rateStatistic>
+	
+	<rateCovarianceStatistic id="default.covariance" name="default.covariance">
+		<treeModel idref="treeModel" />
+		<discretizedBranchRates idref="default.branchRates" />
+	</rateCovarianceStatistic>	
+
+	
+	<gtrModel id="CP1.gtr">
+		<frequencies>
+			<frequencyModel dataType="nucleotide">
+				<frequencies>
+					<parameter id="CP1.frequencies" value="0.25 0.25 0.25 0.25" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		<rates>
+			<parameter id="CP1.gtr.rates" dimension="6" value="1.0" lower="0.0" />
+		</rates>
+	</gtrModel>
+
+	
+	<gtrModel id="CP2.gtr">
+		<frequencies>
+			<frequencyModel dataType="nucleotide">
+				<frequencies>
+					<parameter id="CP2.frequencies" value="0.25 0.25 0.25 0.25" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		<rates>
+			<parameter id="CP2.gtr.rates" dimension="6" value="1.0" lower="0.0" />
+		</rates>
+	</gtrModel>
+
+	
+	<gtrModel id="CP3.gtr">
+		<frequencies>
+			<frequencyModel dataType="nucleotide">
+				<frequencies>
+					<parameter id="CP3.frequencies" value="0.25 0.25 0.25 0.25" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		<rates>
+			<parameter id="CP3.gtr.rates" dimension="6" value="1.0" lower="0.0" />
+		</rates>
+	</gtrModel>
+
+	
+	<siteModel id="CP1.siteModel">
+		<substitutionModel>
+			<gtrModel idref="CP1.gtr" />
+		</substitutionModel>
+		<relativeRate weight="3.0">
+			<parameter id="CP1.nu" value="0.3333333333333333" lower="0.0" upper="1.0" />
+		</relativeRate>
+	</siteModel>
+
+	
+	<statistic id="CP1.mu" name="mu">
+		<siteModel idref="CP1.siteModel" />
+	</statistic>
+
+	
+	<siteModel id="CP2.siteModel">
+		<substitutionModel>
+			<gtrModel idref="CP2.gtr" />
+		</substitutionModel>
+		<relativeRate weight="3.0">
+			<parameter id="CP2.nu" value="0.3333333333333333" lower="0.0" upper="1.0" />
+		</relativeRate>
+	</siteModel>
+
+	
+	<statistic id="CP2.mu" name="mu">
+		<siteModel idref="CP2.siteModel" />
+	</statistic>
+
+	
+	<siteModel id="CP3.siteModel">
+		<substitutionModel>
+			<gtrModel idref="CP3.gtr" />
+		</substitutionModel>
+		<relativeRate weight="3.0">
+			<parameter id="CP3.nu" value="0.3333333333333333" lower="0.0" upper="1.0" />
+		</relativeRate>
+	</siteModel>
+
+	
+	<statistic id="CP3.mu" name="mu">
+		<siteModel idref="CP3.siteModel" />
+	</statistic>
+
+
+	
+	<compoundParameter id="allNus">
+		<parameter idref="CP1.nu" />
+		<parameter idref="CP2.nu" />
+		<parameter idref="CP3.nu" />
+	</compoundParameter>
+	
+
+	
+	<treeDataLikelihood id="CP1.treeLikelihood" useAmbiguities="false" usePreOrder="true" scalingScheme="dynamic" delayScaling="true">
+		<patterns idref="CP1.patterns" />
+		<treeModel idref="treeModel" />
+		<siteModel idref="CP1.siteModel" />
+		<arbitraryBranchRates idref="default.branchRates" />
+	</treeDataLikelihood>
+
+	
+	<treeDataLikelihood id="CP2.treeLikelihood" useAmbiguities="false" usePreOrder="true" scalingScheme="dynamic" delayScaling="true">
+		<patterns idref="CP2.patterns" />
+		<treeModel idref="treeModel" />
+		<siteModel idref="CP2.siteModel" />
+		<arbitraryBranchRates idref="default.branchRates" />
+	</treeDataLikelihood>
+
+	
+	<treeDataLikelihood id="CP3.treeLikelihood" useAmbiguities="false" usePreOrder="true" scalingScheme="dynamic" delayScaling="true">
+		<patterns idref="CP3.patterns" />
+		<treeModel idref="treeModel" />
+		<siteModel idref="CP3.siteModel" />
+		<arbitraryBranchRates idref="default.branchRates" />
+	</treeDataLikelihood>
+
+	
+	<ancestralTreeLikelihood id="RC.CP1.treeLikelihood" useAmbiguities="false" stateTagName="CP1.states">
+		<patterns idref="CP1.patterns" />
+		<treeModel idref="treeModel" />
+		<siteModel idref="CP1.siteModel" />
+		<branchRates idref="default.branchRates" />
+	</ancestralTreeLikelihood>
+
+	
+	<ancestralTreeLikelihood id="RC.CP2.treeLikelihood" useAmbiguities="false" stateTagName="CP2.states">
+		<patterns idref="CP2.patterns" />
+		<treeModel idref="treeModel" />
+		<siteModel idref="CP2.siteModel" />
+		<branchRates idref="default.branchRates" />
+	</ancestralTreeLikelihood>
+
+	
+	<ancestralTreeLikelihood id="RC.CP3.treeLikelihood" useAmbiguities="false" stateTagName="CP3.states">
+		<patterns idref="CP3.patterns" />
+		<treeModel idref="treeModel" />
+		<siteModel idref="CP3.siteModel" />
+		<branchRates idref="default.branchRates" />
+	</ancestralTreeLikelihood>
+	
+    <distributionLikelihood id="ratesPrior">
+        <data>
+            <parameter idref="branchRates.rates" />
+        </data>
+        <distribution>
+            <logNormalDistributionModel meanInRealSpace="true">
+                <mean>
+                    <parameter value="1.0" lower="0.0" />
+                </mean>
+                <stdev>
+                    <parameter value="1.0" lower="0.0" />
+                </stdev>
+            </logNormalDistributionModel>
+        </distribution>
+    </distributionLikelihood>
+
+	<jointGradient id="jointGradient">
+		<hessian>
+			<distributionLikelihood idref="ratesPrior" />
+			<parameter idref="branchRates.rates" />
+		</hessian>
+		<branchRateGradient id="CP1.branchRateGradient" traitName="Sequence">
+			<treeDataLikelihood idref="CP1.treeLikelihood" />
+		</branchRateGradient>
+		<branchRateGradient id="CP2.branchRateGradient" traitName="Sequence">
+			<treeDataLikelihood idref="CP2.treeLikelihood" />
+		</branchRateGradient>
+		<branchRateGradient id="CP3.branchRateGradient" traitName="Sequence">
+			<treeDataLikelihood idref="CP3.treeLikelihood" />
+		</branchRateGradient>
+	</jointGradient>
+
+	<compoundParameter id="locationScale">
+		<parameter idref="branchRates.location" />
+		<parameter idref="branchRates.scale" />
+	</compoundParameter>
+
+    <distributionLikelihood id="locationScalePrior">
+        <data>
+            <parameter idref="locationScale" />
+        </data>
+        <distribution>
+            <exponentialDistributionModel meanInRealSpace="true">
+                <mean>
+                    <parameter value="1.0" lower="0.0" />
+                </mean>
+            </exponentialDistributionModel>
+        </distribution>
+    </distributionLikelihood>
+
+	<jointGradient id="locationGradient">
+		<locationScaleGradient id="locationGradient.CP1" traitName="Sequence" useHessian="false">
+			<treeDataLikelihood idref="CP1.treeLikelihood" />
+			<location>
+				<parameter idref="branchRates.location" />
+			</location>
+		</locationScaleGradient>
+
+		<locationScaleGradient id="locationGradient.CP2" traitName="Sequence" useHessian="false">
+			<treeDataLikelihood idref="CP2.treeLikelihood" />
+			<location>
+				<parameter idref="branchRates.location" />
+			</location>
+		</locationScaleGradient>
+
+		<locationScaleGradient id="locationGradient.CP3" traitName="Sequence" useHessian="false">
+			<treeDataLikelihood idref="CP3.treeLikelihood" />
+			<location>
+				<parameter idref="branchRates.location" />
+			</location>
+		</locationScaleGradient>
+	</jointGradient>
+
+	<jointGradient id="scaleGradient">
+		<locationScaleGradient id="scaleGradient.CP1" traitName="Sequence" useHessian="false">
+			<treeDataLikelihood idref="CP1.treeLikelihood" />
+			<scale>
+				<parameter idref="branchRates.scale" />
+			</scale>
+		</locationScaleGradient>
+
+		<locationScaleGradient id="scaleGradient.CP2" traitName="Sequence" useHessian="false">
+			<treeDataLikelihood idref="CP2.treeLikelihood" />
+			<scale>
+				<parameter idref="branchRates.scale" />
+			</scale>
+		</locationScaleGradient>
+
+		<locationScaleGradient id="scaleGradient.CP3" traitName="Sequence" useHessian="false">
+			<treeDataLikelihood idref="CP3.treeLikelihood" />
+			<scale>
+				<parameter idref="branchRates.scale" />
+			</scale>
+		</locationScaleGradient>
+	</jointGradient>
+
+	<compoundGradient id="locationScaleGradient">
+		<locationScaleGradient idref="locationGradient" />
+		<locationScaleGradient idref="scaleGradient" />
+	</compoundGradient>
+
+	<jointGradient id="locationScaleJointGradient">
+		<hessian>
+			<distributionLikelihood idref="locationScalePrior" />
+			<parameter idref="locationScale" />
+		</hessian>
+		<compoundGradient idref="locationScaleGradient" />
+	</jointGradient>
+
+	<jointGradient id="jointNodeHeightGradient">
+		<gmrfSkyrideGradient idref="skyrideGradientWrtNodeHeight" />
+		<nodeHeightGradient id="CP.1.nodeHeightGradient" traitName="Sequence">
+			<treeDataLikelihood idref="CP1.treeLikelihood" />
+		</nodeHeightGradient>
+		<nodeHeightGradient id="CP.2.nodeHeightGradient" traitName="Sequence">
+			<treeDataLikelihood idref="CP2.treeLikelihood" />
+		</nodeHeightGradient>
+		<nodeHeightGradient id="CP.3.nodeHeightGradient" traitName="Sequence">
+			<treeDataLikelihood idref="CP3.treeLikelihood" />
+		</nodeHeightGradient>
+	</jointGradient>
+
+ 	<nodeHeightTransform id="logitRatioTransform" withRoot="false">
+		<tree idref="treeModel" />
+		<arbitraryBranchRates idref="default.branchRates" />
+		<ratios realLine="true">
+			<parameter id="nodeHeight.ratios" />
+		</ratios>
+	</nodeHeightTransform>
+
+	<nodeHeightProxyParameter id="nodeHeightProxyParameter" rootNode="false">
+		<tree idref="treeModel" />
+	</nodeHeightProxyParameter>	
+
+	<nodeHeightTransform id="fullRatioRealLineTransform" withRoot="true">
+		<tree idref="treeModel" />
+		<arbitraryBranchRates idref="default.branchRates" />
+		<ratios realLine="true">
+			<parameter idref="nodeHeight.ratios" />
+		</ratios>
+	</nodeHeightTransform>
+
+	<nodeHeightProxyParameter id="nodeHeightProxyWithRootParameter" rootNode="true">
+		<tree idref="treeModel" />
+	</nodeHeightProxyParameter>
+
+
+
+
+	<multivariateCompoundTransform id="rateNTimeTransform">
+		<signTransform id="rateTransform">
+			<parameter idref="branchRates.rates" />
+		</signTransform>
+		<nodeHeightTransform idref="fullRatioRealLineTransform" />
+	</multivariateCompoundTransform>
+
+	<compoundGradient id="rateNTimeGradient">
+		<jointGradient idref="jointGradient" />
+		<jointGradient idref="jointNodeHeightGradient" />
+	</compoundGradient>
+
+	<compoundParameter id="rateNTimeParameter">
+		<parameter idref="branchRates.rates" />
+		<nodeHeightProxyParameter idref="nodeHeightProxyWithRootParameter" />
+	</compoundParameter>
+
+
+	
+	<operators id="operators" optimizationSchedule="log">
+		<hamiltonianMonteCarloOperator weight="1" nSteps="4" stepSize="1E-2" mode="vanilla" instabilityHandler="reject" drawVariance="1.0" autoOptimize="true" preconditioning="diagonal" preconditioningDelay="0" preconditioningUpdateFrequency="10" gradientCheckCount="10" gradientCheckTolerance="1E-1">
+            <jointGradient idref="jointGradient" />
+            <parameter idref="branchRates.rates" />
+            <signTransform>
+                <parameter idref="branchRates.rates" />
+            </signTransform>
+        </hamiltonianMonteCarloOperator>
+
+		<scaleOperator scaleFactor="0.75" weight="50">
+			<parameter idref="branchRates.scale" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="100">
+			<parameter idref="branchRates.location" />
+		</scaleOperator>
+
+		<deltaExchange delta="0.01" weight="1">
+			<parameter idref="CP1.gtr.rates" />
+		</deltaExchange>
+		<deltaExchange delta="0.01" weight="1">
+			<parameter idref="CP2.gtr.rates" />
+		</deltaExchange>
+		<deltaExchange delta="0.01" weight="1">
+			<parameter idref="CP3.gtr.rates" />
+		</deltaExchange>
+		<deltaExchange delta="0.01" weight="1">
+			<parameter idref="CP1.frequencies" />
+		</deltaExchange>
+		<deltaExchange delta="0.01" weight="1">
+			<parameter idref="CP2.frequencies" />
+		</deltaExchange>
+		<deltaExchange delta="0.01" weight="1">
+			<parameter idref="CP3.frequencies" />
+		</deltaExchange>
+
+		<upDownOperator scaleFactor="0.75" weight="10">
+			<up>
+				<parameter idref="treeModel.allInternalNodeHeights" />
+			</up>
+			<down>
+				<parameter idref="branchRates.location" />
+			</down>
+		</upDownOperator>
+		<deltaExchange delta="0.01" weight="3">
+			<parameter idref="allNus" />
+		</deltaExchange>
+		<subtreeLeap size="1.0" weight="1519">
+			<treeModel idref="treeModel" />
+		</subtreeLeap>
+		<fixedHeightSubtreePruneRegraft weight="151.9">
+			<treeModel idref="treeModel" />
+		</fixedHeightSubtreePruneRegraft>
+
+		<hamiltonianMonteCarloOperator weight="3" nSteps="4" stepSize="7.8E-2" mode="vanilla" instabilityHandler="reject" drawVariance="1.0" autoOptimize="true" targetAcceptanceProbability="0.2" preconditioning="adaptiveDiagonal" preconditioningDelay="200" preconditioningUpdateFrequency="10">
+			<jointGradient idref="jointNodeHeightGradient" />
+			<nodeHeightProxyParameter idref="nodeHeightProxyParameter" />
+			<nodeHeightTransform idref="logitRatioTransform" />
+		</hamiltonianMonteCarloOperator>
+
+		<hamiltonianMonteCarloOperator weight="3" nSteps="4" stepSize="7.8E-3" mode="vanilla" instabilityHandler="reject" drawVariance="1.0" autoOptimize="true" targetAcceptanceProbability="0.2" preconditioning="adaptiveDiagonal" preconditioningDelay="200" preconditioningUpdateFrequency="10">
+			<jointGradient idref="jointNodeHeightGradient" />
+			<nodeHeightProxyParameter idref="nodeHeightProxyWithRootParameter" />
+			<nodeHeightTransform idref="fullRatioRealLineTransform" />
+		</hamiltonianMonteCarloOperator>
+
+		<gmrfGridBlockUpdateOperator scaleFactor="1.0" weight="2">
+			<gmrfSkyrideLikelihood idref="skygrid" />
+		</gmrfGridBlockUpdateOperator>
+		<scaleOperator scaleFactor="0.75" weight="1">
+			<parameter idref="skygrid.precision" />
+		</scaleOperator>
+		<hamiltonianMonteCarloOperator weight="20" nSteps="10" stepSize="1E-3" mode="vanilla" autoOptimize="true" gradientCheckCount="0" gradientCheckTolerance="1E-1" preconditioning="diagonal" preconditioningUpdateFrequency="100">
+	 		<compoundGradient idref="full.skygrid.gradient" />
+			<compoundParameter idref="skygrid.parameters" />
+			<signTransform start="1" end="1">
+				<compoundParameter idref="skygrid.parameters" />
+			</signTransform>
+		</hamiltonianMonteCarloOperator>
+	</operators>
+	
+
+	
+
+	
+	<codonPartitionedRobustCounting id="NP.bird_skunk.relaxed.RC.robustCounting1" labeling="S" saveCompleteHistory="true" useUniformization="true" unconditionedPerBranch="true">
+		<treeModel idref="treeModel" />
+		<firstPosition>
+			<ancestralTreeLikelihood idref="RC.CP1.treeLikelihood" />
+		</firstPosition>
+		<secondPosition>
+			<ancestralTreeLikelihood idref="RC.CP2.treeLikelihood" />
+		</secondPosition>
+		<thirdPosition>
+			<ancestralTreeLikelihood idref="RC.CP3.treeLikelihood" />
+		</thirdPosition>
+	</codonPartitionedRobustCounting>
+
+	<codonPartitionedRobustCounting id="NP.bird_skunk.relaxed.RC.robustCounting2" labeling="N" saveCompleteHistory="true" useUniformization="true" unconditionedPerBranch="true">
+		<treeModel idref="treeModel" />
+		<firstPosition>
+			<ancestralTreeLikelihood idref="RC.CP1.treeLikelihood" />
+		</firstPosition>
+		<secondPosition>
+			<ancestralTreeLikelihood idref="RC.CP2.treeLikelihood" />
+		</secondPosition>
+		<thirdPosition>
+			<ancestralTreeLikelihood idref="RC.CP3.treeLikelihood" />
+		</thirdPosition>
+	</codonPartitionedRobustCounting>
+
+	
+
+
+	
+	<mcmc id="mcmc" chainLength="100000000" autoOptimize="true" operatorAnalysis="NP.bird_skunk.relaxed.RC.ops">
+		<joint id="joint">
+			<prior id="prior">
+				<dirichletPrior alpha="1.0" sumsTo="6.0">
+					<parameter idref="CP1.gtr.rates" />
+				</dirichletPrior>
+				<dirichletPrior alpha="1.0" sumsTo="6.0">
+					<parameter idref="CP2.gtr.rates" />
+				</dirichletPrior>
+				<dirichletPrior alpha="1.0" sumsTo="6.0">
+					<parameter idref="CP3.gtr.rates" />
+				</dirichletPrior>
+				<dirichletPrior alpha="1.0" sumsTo="1.0">
+					<parameter idref="CP1.frequencies" />
+				</dirichletPrior>
+				<dirichletPrior alpha="1.0" sumsTo="1.0">
+					<parameter idref="CP2.frequencies" />
+				</dirichletPrior>
+				<dirichletPrior alpha="1.0" sumsTo="1.0">
+					<parameter idref="CP3.frequencies" />
+				</dirichletPrior>
+				<dirichletPrior alpha="1.0" sumsTo="1.0">
+					<parameter idref="allNus" />
+				</dirichletPrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="branchRates.location" />
+					</ctmcScale>
+					<treeModel idref="treeModel" />
+				</ctmcScalePrior>
+				<exponentialPrior mean="0.3333333333333333" offset="0.0">
+					<parameter idref="branchRates.scale" />
+				</exponentialPrior>
+				<distributionLikelihood idref="ratesPrior" />
+				<gammaPrior shape="0.001" scale="1000.0" offset="0.0">
+					<parameter idref="exponential.popSize" />
+				</gammaPrior>
+				<laplacePrior mean="0.0" scale="100.0">
+					<parameter idref="exponential.growthRate" />
+				</laplacePrior>
+				<gmrfSkyGridLikelihood idref="skygrid" />
+				
+				
+				<branchRates idref="default.branchRates" />
+			</prior>
+			<likelihood id="likelihood">
+				<ancestralTreeLikelihood idref="CP1.treeLikelihood" />
+				<ancestralTreeLikelihood idref="CP2.treeLikelihood" />
+				<ancestralTreeLikelihood idref="CP3.treeLikelihood" />
+			</likelihood>
+		</joint>
+		<operators idref="operators" />
+
+		
+		<log id="screenLog" logEvery="10000">
+			<column label="Joint" dp="4" width="12">
+				<joint idref="joint" />
+			</column>
+			<column label="Prior" dp="4" width="12">
+				<prior idref="prior" />
+			</column>
+			<column label="Likelihood" dp="4" width="12">
+				<likelihood idref="likelihood" />
+			</column>
+			<column label="age(root)" sf="6" width="12">
+				<tmrcaStatistic idref="age(root)" />
+			</column>
+			<column label="branchRates.location" sf="6" width="12">
+				<parameter idref="branchRates.location" />
+			</column>
+			<column label="branchRates.scale" sf="6" width="12">
+				<parameter idref="branchRates.scale" />
+			</column>
+		</log>
+
+		
+		<log id="fileLog" logEvery="50000" fileName="NP.bird_skunk.relaxed.RC.log" overwrite="false">
+			<joint idref="joint" />
+			<prior idref="prior" />
+			<likelihood idref="likelihood" />
+			<treeHeightStatistic idref="rootHeight" />
+			<tmrcaStatistic idref="age(root)" />
+			<treeLengthStatistic idref="treeLength" />
+
+			<parameter idref="skygrid.precision" />
+			<parameter idref="skygrid.logPopSize" />
+			<parameter idref="skygrid.cutOff" />
+			<parameter idref="CP1.gtr.rates" />
+			<parameter idref="CP2.gtr.rates" />
+			<parameter idref="CP3.gtr.rates" />
+			<parameter idref="CP1.frequencies" />
+			<parameter idref="CP2.frequencies" />
+			<parameter idref="CP3.frequencies" />
+			<compoundParameter idref="allNus" />
+			<statistic idref="CP1.mu" />
+			<statistic idref="CP2.mu" />
+			<statistic idref="CP3.mu" />
+			<parameter idref="branchRates.location" />
+			<parameter idref="branchRates.scale" />
+			<rateStatistic idref="default.meanRate" />
+			<rateStatistic idref="default.coefficientOfVariation" />
+			<rateCovarianceStatistic idref="default.covariance" />
+
+			
+			<codonPartitionedRobustCounting idref="NP.bird_skunk.relaxed.RC.robustCounting1" />
+			<codonPartitionedRobustCounting idref="NP.bird_skunk.relaxed.RC.robustCounting2" />
+
+			
+
+			<ancestralTreeLikelihood idref="CP1.treeLikelihood" />
+			<ancestralTreeLikelihood idref="CP2.treeLikelihood" />
+			<ancestralTreeLikelihood idref="CP3.treeLikelihood" />
+			<branchRates idref="default.branchRates" />
+			<gmrfSkyGridLikelihood idref="skygrid" />
+			
+		</log>
+
+		
+		<logTree id="treeFileLog" logEvery="50000" nexusFormat="true" fileName="NP.bird_skunk.relaxed.RC.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel" />
+			<trait name="rate" tag="rate">
+				<arbitraryBranchRates idref="default.branchRates" />
+			</trait>
+			<joint idref="joint" />
+
+			
+			<codonPartitionedRobustCounting idref="NP.bird_skunk.relaxed.RC.robustCounting1" />
+			<codonPartitionedRobustCounting idref="NP.bird_skunk.relaxed.RC.robustCounting2" />
+
+			
+
+		</logTree>
+
+		
+
+		
+		<log id="fileLog_dNdS_NP.bird_skunk.relaxed.RC" logEvery="50000" fileName="NP.bird_skunk.relaxed.RC.dNdS.log">
+			<dNdSLogger id="NP.bird_skunk.relaxed.RC.dNdS">
+				<treeModel idref="treeModel" />
+				<codonPartitionedRobustCounting idref="NP.bird_skunk.relaxed.RC.robustCounting1" />
+				<codonPartitionedRobustCounting idref="NP.bird_skunk.relaxed.RC.robustCounting2" />
+			</dNdSLogger>
+		</log>
+
+		
+
+
+		
+		<logCheckpoint id="checkpointFileLog" checkpointEvery="1000000" checkpointFinal="10000000" fileName="NP.bird_skunk.relaxed.RC.chkpt" overwrite="false" />
+	</mcmc>
+	
+
+	
+
+	
+	<report>
+		<dNdSPerSiteAnalysis fileName="NP.bird_skunk.relaxed.RC.dNdS.log" /> 
+	</report>
+
+	
+
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc" />
+		</property>
+	</report>
+	
+</beast>
